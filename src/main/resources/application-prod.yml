@@ -1,0 +1,7 @@
+#PROD ENVIRONEMNT SETTING#
+spring:
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql-instance100.sovanmaws.us-east-1.rds.amazonaws.com:3306/profiles
+    username: <USERNAME_PROD>
+    password: <SECRET_PASS>

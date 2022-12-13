@@ -1,0 +1,6 @@
+com\sovanm\profiles\ProfilesApplication.class
+com\sovanm\profiles\model\ProdDataSource.class
+com\sovanm\profiles\configuration\ProdDataConfiguration.class
+com\sovanm\profiles\model\DataSource.class
+META-INF\spring-configuration-metadata.json
+com\sovanm\profiles\configuration\DBConfiguration.class

@@ -1,0 +1,32 @@
+{
+  "groups": [
+    {
+      "name": "spring.datasource",
+      "type": "com.sovanm.profiles.model.DataSource",
+      "sourceType": "com.sovanm.profiles.model.DataSource"
+    }
+  ],
+  "properties": [
+    {
+      "name": "spring.datasource.driver-class-name",
+      "type": "java.lang.String",
+      "sourceType": "com.sovanm.profiles.model.DataSource"
+    },
+    {
+      "name": "spring.datasource.password",
+      "type": "java.lang.String",
+      "sourceType": "com.sovanm.profiles.model.DataSource"
+    },
+    {
+      "name": "spring.datasource.url",
+      "type": "java.lang.String",
+      "sourceType": "com.sovanm.profiles.model.DataSource"
+    },
+    {
+      "name": "spring.datasource.username",
+      "type": "java.lang.String",
+      "sourceType": "com.sovanm.profiles.model.DataSource"
+    }
+  ],
+  "hints": []
+}

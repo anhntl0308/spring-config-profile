@@ -1,0 +1,8 @@
+#C1: run properties file
+message-from-application-properties:
+  Hello from application.properties
+server:
+  port: 8081
+spring:
+  profiles:
+    active: prod

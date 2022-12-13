@@ -1,0 +1,4 @@
+#C1: run properties file
+spring:
+  profiles:
+    active: prod
